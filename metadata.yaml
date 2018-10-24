@@ -1,0 +1,23 @@
+_repo: Hawaiian-Flowers_58034
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kuck, Loraine E.
+    gutenberg_agent_id: '49739'
+    url: http://www.gutenberg.org/2009/agents/49739
+  - agent_name: Tongg, Richard C.
+    gutenberg_agent_id: '49740'
+    url: http://www.gutenberg.org/2009/agents/49740
+description: ''
+gutenberg_issued: '2018-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hawaiian Flowers
+url: http://www.gutenberg.org/ebooks/58034
